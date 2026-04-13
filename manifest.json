@@ -1,0 +1,17 @@
+{
+  "background_color": "#1e4b20",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Gridrion Glory Trivia",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Gridiron",
+  "start_url": "https://gridironglorytrivia.com",
+  "theme_color": "#1e4b20",
+  "description": "The ultimate football trivia challenge for fans.",
+  "id": "com.base696aff4dc3341201fcd87709.app",
+  "lang": "en",
+  "categories": [
+    "games"
+  ]
+}
