@@ -1,7 +1,7 @@
-
 {
   "name": "Gridiron Glory Trivia",
   "short_name": "Gridiron",
+  "description": "The ultimate football trivia challenge where fans test their knowledge and climb the leaderboard.",
   "start_url": "https://gridironglorytrivia.com",
   "display": "standalone",
   "background_color": "#ffffff",
@@ -17,7 +17,7 @@
   "related_applications": [
     {
       "platform": "play",
-      "id": "GRIDIRON_GLORY_TRIVIA"
+      "id": "com.base696aff4dc3341201fcd87709.app"
     }
   ]
 }
