@@ -1,0 +1,23 @@
+
+{
+  "name": "Gridiron Glory Trivia",
+  "short_name": "Gridiron",
+  "start_url": "https://gridironglorytrivia.com",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1E4B20",
+  "icons": [
+    {
+      "src": "https://github.com/jonmuna/gridiron/blob/main/favicon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "related_applications": [
+    {
+      "platform": "play",
+      "id": "GRIDIRON_GLORY_TRIVIA"
+    }
+  ]
+}
