@@ -22,6 +22,22 @@
       "purpose": "any maskable"
     }
   ],
+  "screenshots": [
+    {
+      "src": "https://raw.githubusercontent.com/jonmuna/gridiron/main/Screenshot%20Main%20Screen.jpg",
+      "sizes": "1080x1920",
+      "type": "image/jpeg",
+      "form_factor": "narrow",
+      "label": "Main Menu"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/jonmuna/gridiron/main/Screenshot%20Categories.jpg",
+      "sizes": "1080x1920",
+      "type": "image/jpeg",
+      "form_factor": "narrow",
+      "label": "Categories"
+    }
+  ],
   "related_applications": [
     {
       "platform": "play",
